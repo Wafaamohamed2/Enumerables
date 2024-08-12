@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Enumerables
+{
+    internal class PayItems
+    {
+        public string name {  get; set; }
+        public int value { get; set; }   
+
+
+    }
+}
